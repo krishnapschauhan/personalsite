@@ -1,0 +1,162 @@
+.upper{
+
+
+}
+body{
+    font-size: 1em;
+    text-align: center;
+}
+img{
+    position: relative;
+}
+#head{
+    position:absolute;
+    top:20%;
+    left:35%;
+    font-size:6rem;
+    color:white;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    word-spacing: 50px;
+}  
+.subhead{
+    position:absolute;
+    top:40%;
+    left:35%;
+    font-size: 3rem;
+    color:white;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.pfp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.hello{
+    font-size: 3rem;
+    margin-left:auto;
+    margin-right:auto; 
+    text-align: center;
+    color:#3498db;
+    font-family:"Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.intro{
+    font-size:1.2rem;
+    font-weight: 400;
+    font-style: normal;
+    margin:auto;
+    text-align:center;
+    color:black;
+    width: 40%;
+    font-family: "Merriweather", serif;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    unicode-bidi: isolate;
+    overflow: hidden;
+}
+.hello1{
+    font-size: 3rem;
+    margin-left:auto;
+    margin-right:auto; 
+    text-align: center;
+    color:#3498db;
+    font-family:"Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+.skills{
+    width: 60%;
+    margin: auto;
+    margin-bottom: ;
+    display: block;
+}
+.para{
+    font-size: 1.2rem;
+    margin-bottom: 200px;
+}
+.design{
+    font-size: 2rem;
+    text-align:left;
+    color:#3498db;
+    font-family:"Yeseva One", serif;
+    font-weight: 200;
+    font-style: normal;
+
+}
+.hello2{
+    font-size: 3rem;
+    margin-left:auto;
+    margin-right:auto; 
+    text-align: center;
+    color:#3498db;
+    font-family:"Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 100px;
+    margin-bottom:50px;
+}
+.contact{
+    font-size: 1.5rem;
+    text-align:center;
+    color:#3498db;
+    font-family:;
+    font-weight: 200;
+    font-style: normal;
+    margin-bottom: 30px;
+}
+.para1{
+    font-size: 1.2rem;
+    margin-bottom: 120px;
+    text-align: center;
+}
+.button {
+    background-color: #3498db;
+    border:10px solid #3498db;
+    border-radius: 5%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family:"Yeseva One", serif;
+    margin-bottom: 100px;
+  }
+  .center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:0px;
+}
+.bottom-container {
+    background-color: #3498db;
+    padding: 50px 0 20px;
+}
+.footer-link{
+    padding: 40px;
+}
