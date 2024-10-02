@@ -1,7 +1,26 @@
-.upper{
-
-
-}
+@media (max-width: 480px) {
+    #head{
+        position:absolute;
+        top:10%;
+        left:30%;
+        font-size:5rem;
+        color:white;
+        font-family: "Yeseva One", serif;
+        font-weight: 400;
+        font-style: normal;
+        word-spacing: px;
+    }    
+    .subhead{
+        position:absolute;
+        top:50%;
+        left:30%;
+        font-size:2rem;
+        color:white;
+        font-family: "Silkscreen", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    }
 body{
     font-size: 1em;
     text-align: center;
