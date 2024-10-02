@@ -30,7 +30,7 @@ img{
     font-family: "Yeseva One", serif;
     font-weight: 400;
     font-style: normal;
-    word-spacing: 50px;
+    word-spacing:0px;
 }  
 .subhead{
    text-align: center;
