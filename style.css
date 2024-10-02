@@ -1,44 +1,55 @@
 @media (max-width: 480px) 
 {
     #head{
+        text-align: center;
         font-size:6rem;
-        color:black;
+        color:white;
         font-family: "Yeseva One", serif;
         font-weight: 400;
         font-style: normal;
-        word-spacing: px;
-    }    
+        word-spacing: 50px;
+        margin-top: 50px;
+    
+    }  
     .subhead{
-        font-size:2rem;
-        color:black;
+       text-align: center;
+        font-size: 3rem;
+        color:white;
         font-family: "Silkscreen", sans-serif;
         font-weight: 400;
         font-style: normal;
-      }
+        margin-bottom: 100px;
+    }
     }
 body{
     font-size: 1em;
     text-align: center;
 }
-img{
-    position:;
+.upper{
+    background-color:#3498db;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 #head{
     text-align: center;
     font-size:6rem;
-    color:black;
+    color:white;
     font-family: "Yeseva One", serif;
     font-weight: 400;
     font-style: normal;
-    word-spacing:0px;
+    word-spacing: 50px;
+    margin-top: 50px;
+
 }  
 .subhead{
    text-align: center;
     font-size: 3rem;
-    color:black;
+    color:white;
     font-family: "Silkscreen", sans-serif;
     font-weight: 400;
     font-style: normal;
+    margin-bottom: 100px;
 }
 .pfp{
     display: block;
