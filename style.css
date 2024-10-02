@@ -1,8 +1,8 @@
 @media (max-width: 480px) {
     #head{
         position:absolute;
-        top:10%;
-        left:30%;
+        top:;
+        left:;
         font-size:5rem;
         color:white;
         font-family: "Yeseva One", serif;
@@ -12,8 +12,8 @@
     }    
     .subhead{
         position:absolute;
-        top:50%;
-        left:30%;
+        top:;
+        left:;
         font-size:2rem;
         color:white;
         font-family: "Silkscreen", sans-serif;
