@@ -20,6 +20,12 @@
         font-style: normal;
         margin-bottom: 100px;
     }
+    .upper{
+    background-color:#3498db;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
     }
 body{
     font-size: 1em;
