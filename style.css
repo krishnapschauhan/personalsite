@@ -32,10 +32,12 @@ body{
     text-align: center;
 }
 .upper{
-    background-color:#3498db;
     position: relative;
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top:100px;
+    padding-bottom:200px;
+    background-image: url('./sky.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 750px;
 }
 #head{
     text-align: center;
