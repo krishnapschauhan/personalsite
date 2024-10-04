@@ -45,9 +45,9 @@ body{
     position: relative;
     padding-top:100px;
     padding-bottom:200px;
-    background-image: url('./sky.jpg');
-    background-repeat: no-repeat;
-    background-size: 100% 750px;
+    background-color: #3498db;
+    width: 100%;
+    height:width/2;
 }
 #head{
     text-align: center;
